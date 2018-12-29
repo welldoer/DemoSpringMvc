@@ -1,5 +1,8 @@
 # DemoSpringMvc
 
+[![Build Status](https://travis-ci.com/welldoer/DemoSpringMvc.svg?branch=master)](https://travis-ci.com/welldoer/DemoSpringMvc)
+[![Coverage](https://sonarcloud.io/api/project_badges/measure?project=welldoer_DemoSpringMvc&metric=coverage)](https://sonarcloud.io/dashboard?id=welldoer_DemoSpringMvc)
+
 参考《精通 Spring MVC 4》
 
 #### 待开发任务清单
