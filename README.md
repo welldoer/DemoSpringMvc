@@ -13,5 +13,5 @@
 
 ~~5. 在 Eclipse 界面右键执行 Refresh Gradle Project，至此完成项目准备~~
 
-6. 配置 Travis-CI、SonarCloud 环境
+~~6. 配置 Travis-CI、SonarCloud 环境~~
 
